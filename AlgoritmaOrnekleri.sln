@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KelimeninKacKezGectiginiHes
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "siralama_algoritmasi", "siralama_algoritmasi\siralama_algoritmasi.csproj", "{C5A895F3-E1DD-4761-8D61-D4491CB1868B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tekrarEdenElemaniBulma", "tekrarEdenElemaniBulma\tekrarEdenElemaniBulma.csproj", "{A27A9928-57E4-4081-A1B6-48402CFDEC61}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{C5A895F3-E1DD-4761-8D61-D4491CB1868B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C5A895F3-E1DD-4761-8D61-D4491CB1868B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C5A895F3-E1DD-4761-8D61-D4491CB1868B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A27A9928-57E4-4081-A1B6-48402CFDEC61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A27A9928-57E4-4081-A1B6-48402CFDEC61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A27A9928-57E4-4081-A1B6-48402CFDEC61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A27A9928-57E4-4081-A1B6-48402CFDEC61}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
