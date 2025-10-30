@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MukemmelSayiBulma", "Mukemm
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnBuyukSayiyiBulma", "EnBuyukSayiyiBulma\EnBuyukSayiyiBulma.csproj", "{5C0DC6FD-7C0D-4301-8468-D626ED49B406}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mukemmelSayi", "mukemmelSayi\mukemmelSayi.csproj", "{A65AEB91-941F-46CE-A9F7-A34EE0025700}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{5C0DC6FD-7C0D-4301-8468-D626ED49B406}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5C0DC6FD-7C0D-4301-8468-D626ED49B406}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5C0DC6FD-7C0D-4301-8468-D626ED49B406}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A65AEB91-941F-46CE-A9F7-A34EE0025700}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A65AEB91-941F-46CE-A9F7-A34EE0025700}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A65AEB91-941F-46CE-A9F7-A34EE0025700}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A65AEB91-941F-46CE-A9F7-A34EE0025700}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

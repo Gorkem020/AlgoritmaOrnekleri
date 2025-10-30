@@ -12,6 +12,7 @@ yazın.
 Console.WriteLine("bir metin giriniz");
 string metin = Console.ReadLine();
 
+// kelimeler arasında fazladan olan boşlukları saymaz.
 string[] kelimeler = metin.Split(" ",StringSplitOptions.RemoveEmptyEntries);
 
 Console.WriteLine($"kelime sayısı: {kelimeler.Length}");
