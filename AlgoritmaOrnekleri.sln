@@ -15,13 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "siralama_algoritmasi", "sir
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "tekrarEdenElemaniBulma", "tekrarEdenElemaniBulma\tekrarEdenElemaniBulma.csproj", "{A27A9928-57E4-4081-A1B6-48402CFDEC61}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsalSayiyiBulma", "AsalSayiyiBulma\AsalSayiyiBulma.csproj", "{2474136F-12A5-4E19-B191-459741532581}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MukemmelSayiBulma", "MukemmelSayiBulma\MukemmelSayiBulma.csproj", "{A772902B-06CA-4584-B214-964DE5465478}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnBuyukSayiyiBulma", "EnBuyukSayiyiBulma\EnBuyukSayiyiBulma.csproj", "{5C0DC6FD-7C0D-4301-8468-D626ED49B406}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mukemmelSayi", "mukemmelSayi\mukemmelSayi.csproj", "{A65AEB91-941F-46CE-A9F7-A34EE0025700}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "mukemmelSayi", "mukemmelSayi\mukemmelSayi.csproj", "{A65AEB91-941F-46CE-A9F7-A34EE0025700}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KelimeninYarisiniBulma", "KelimeninYarisiniBulma\KelimeninYarisiniBulma.csproj", "{F92348C6-5596-42C9-9D5F-EFB68B34DB57}"
 EndProject
@@ -55,14 +51,6 @@ Global
 		{A27A9928-57E4-4081-A1B6-48402CFDEC61}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A27A9928-57E4-4081-A1B6-48402CFDEC61}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A27A9928-57E4-4081-A1B6-48402CFDEC61}.Release|Any CPU.Build.0 = Release|Any CPU
-		{2474136F-12A5-4E19-B191-459741532581}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2474136F-12A5-4E19-B191-459741532581}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2474136F-12A5-4E19-B191-459741532581}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2474136F-12A5-4E19-B191-459741532581}.Release|Any CPU.Build.0 = Release|Any CPU
-		{A772902B-06CA-4584-B214-964DE5465478}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A772902B-06CA-4584-B214-964DE5465478}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A772902B-06CA-4584-B214-964DE5465478}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A772902B-06CA-4584-B214-964DE5465478}.Release|Any CPU.Build.0 = Release|Any CPU
 		{5C0DC6FD-7C0D-4301-8468-D626ED49B406}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{5C0DC6FD-7C0D-4301-8468-D626ED49B406}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5C0DC6FD-7C0D-4301-8468-D626ED49B406}.Release|Any CPU.ActiveCfg = Release|Any CPU
