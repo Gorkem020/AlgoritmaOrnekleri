@@ -3,17 +3,23 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36616.10
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgoritmaOrnekleri", "AlgoritmaOrnekleri\AlgoritmaOrnekleri.csproj", "{18CFFD00-D393-4860-A7C0-D6E53BEBC13E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AlgoritmaOrnekleri", "AlgoritmaOrnekleri\AlgoritmaOrnekleri.csproj", "{18CFFD00-D393-4860-A7C0-D6E53BEBC13E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KarekterSayısıHesaplama", "KarekterSayısıHesaplama\KarekterSayısıHesaplama.csproj", "{926F7832-86CB-4D6F-8DFF-FC47ED64E9D8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KelimeSayisiBulma", "KelimeSayısıBulma\KelimeSayisiBulma.csproj", "{30E8AEF3-6E41-440D-B053-5B1A79BB5B50}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KelimeSayisiBulma", "KelimeSayısıBulma\KelimeSayisiBulma.csproj", "{30E8AEF3-6E41-440D-B053-5B1A79BB5B50}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KelimeninKacKezGectiginiHesaplama", "KelimeninKacKezGectiginiHesaplama\KelimeninKacKezGectiginiHesaplama.csproj", "{06136409-4718-4039-AF3E-9857CB7F2799}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KelimeninKacKezGectiginiHesaplama", "KelimeninKacKezGectiginiHesaplama\KelimeninKacKezGectiginiHesaplama.csproj", "{06136409-4718-4039-AF3E-9857CB7F2799}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "siralama_algoritmasi", "siralama_algoritmasi\siralama_algoritmasi.csproj", "{C5A895F3-E1DD-4761-8D61-D4491CB1868B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "siralama_algoritmasi", "siralama_algoritmasi\siralama_algoritmasi.csproj", "{C5A895F3-E1DD-4761-8D61-D4491CB1868B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tekrarEdenElemaniBulma", "tekrarEdenElemaniBulma\tekrarEdenElemaniBulma.csproj", "{A27A9928-57E4-4081-A1B6-48402CFDEC61}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "tekrarEdenElemaniBulma", "tekrarEdenElemaniBulma\tekrarEdenElemaniBulma.csproj", "{A27A9928-57E4-4081-A1B6-48402CFDEC61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsalSayiyiBulma", "AsalSayiyiBulma\AsalSayiyiBulma.csproj", "{2474136F-12A5-4E19-B191-459741532581}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MukemmelSayiBulma", "MukemmelSayiBulma\MukemmelSayiBulma.csproj", "{A772902B-06CA-4584-B214-964DE5465478}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnBuyukSayiyiBulma", "EnBuyukSayiyiBulma\EnBuyukSayiyiBulma.csproj", "{5C0DC6FD-7C0D-4301-8468-D626ED49B406}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +51,18 @@ Global
 		{A27A9928-57E4-4081-A1B6-48402CFDEC61}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A27A9928-57E4-4081-A1B6-48402CFDEC61}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A27A9928-57E4-4081-A1B6-48402CFDEC61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2474136F-12A5-4E19-B191-459741532581}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2474136F-12A5-4E19-B191-459741532581}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2474136F-12A5-4E19-B191-459741532581}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2474136F-12A5-4E19-B191-459741532581}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A772902B-06CA-4584-B214-964DE5465478}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A772902B-06CA-4584-B214-964DE5465478}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A772902B-06CA-4584-B214-964DE5465478}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A772902B-06CA-4584-B214-964DE5465478}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C0DC6FD-7C0D-4301-8468-D626ED49B406}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C0DC6FD-7C0D-4301-8468-D626ED49B406}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C0DC6FD-7C0D-4301-8468-D626ED49B406}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C0DC6FD-7C0D-4301-8468-D626ED49B406}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
