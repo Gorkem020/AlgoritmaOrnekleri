@@ -41,11 +41,7 @@
                         Console.WriteLine(sayilar[i]);
                     }
                 }
- 
             }
-
-
-
            
         }
     }
