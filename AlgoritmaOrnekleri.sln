@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gucluSayiBulmaAlgoritmasi",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "orjinalSayiBulma", "orjinalSayiBulma\orjinalSayiBulma.csproj", "{16BB46F5-7DF0-4897-B9E7-7BDD45F46B24}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "palindromSorusu", "palindromSorusu\palindromSorusu.csproj", "{12CC7133-23F4-4630-B265-4975A7F18E41}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{16BB46F5-7DF0-4897-B9E7-7BDD45F46B24}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{16BB46F5-7DF0-4897-B9E7-7BDD45F46B24}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{16BB46F5-7DF0-4897-B9E7-7BDD45F46B24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12CC7133-23F4-4630-B265-4975A7F18E41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12CC7133-23F4-4630-B265-4975A7F18E41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12CC7133-23F4-4630-B265-4975A7F18E41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12CC7133-23F4-4630-B265-4975A7F18E41}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
