@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "orjinalSayiBulma", "orjinal
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "palindromSorusu", "palindromSorusu\palindromSorusu.csproj", "{12CC7133-23F4-4630-B265-4975A7F18E41}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IkiTarihArasindakiFark", "IkiTarihArasindakiFark\IkiTarihArasindakiFark.csproj", "{948F24EF-BB88-4B02-9FDE-45C7920811A0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{12CC7133-23F4-4630-B265-4975A7F18E41}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{12CC7133-23F4-4630-B265-4975A7F18E41}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{12CC7133-23F4-4630-B265-4975A7F18E41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{948F24EF-BB88-4B02-9FDE-45C7920811A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{948F24EF-BB88-4B02-9FDE-45C7920811A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{948F24EF-BB88-4B02-9FDE-45C7920811A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{948F24EF-BB88-4B02-9FDE-45C7920811A0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
