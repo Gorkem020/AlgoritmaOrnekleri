@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sifreKontrolAlgoritmasi", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fonksiyonlar", "fonksiyonlar\fonksiyonlar.csproj", "{A3C33665-8CD8-46A7-A89C-5B19C92675B4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "saniyeyiDigitalSaateCevirmeAlgoritmasi", "saniyeyiDigitalSaateCevirmeAlgoritmasi\saniyeyiDigitalSaateCevirmeAlgoritmasi.csproj", "{49E01EAB-A248-4319-98F0-01FAB6B165D1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{A3C33665-8CD8-46A7-A89C-5B19C92675B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A3C33665-8CD8-46A7-A89C-5B19C92675B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A3C33665-8CD8-46A7-A89C-5B19C92675B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49E01EAB-A248-4319-98F0-01FAB6B165D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49E01EAB-A248-4319-98F0-01FAB6B165D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49E01EAB-A248-4319-98F0-01FAB6B165D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49E01EAB-A248-4319-98F0-01FAB6B165D1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
