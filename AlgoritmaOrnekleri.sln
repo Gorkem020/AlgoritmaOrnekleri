@@ -19,23 +19,25 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnBuyukSayiyiBulma", "EnBuy
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "mukemmelSayi", "mukemmelSayi\mukemmelSayi.csproj", "{A65AEB91-941F-46CE-A9F7-A34EE0025700}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KelimeninYarisiniBulma", "KelimeninYarisiniBulma\KelimeninYarisiniBulma.csproj", "{F92348C6-5596-42C9-9D5F-EFB68B34DB57}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KelimeninYarisiniBulma", "KelimeninYarisiniBulma\KelimeninYarisiniBulma.csproj", "{F92348C6-5596-42C9-9D5F-EFB68B34DB57}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "girilenSayilarinOrtalamasiniHesaplama", "girilenSayilarinOrtalamasiniHesaplama\girilenSayilarinOrtalamasiniHesaplama.csproj", "{F262851E-2D34-4963-AC49-4284CCF39A3B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "girilenSayilarinOrtalamasiniHesaplama", "girilenSayilarinOrtalamasiniHesaplama\girilenSayilarinOrtalamasiniHesaplama.csproj", "{F262851E-2D34-4963-AC49-4284CCF39A3B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gucluSayiBulmaAlgoritmasi", "gucluSayiBulmaAlgoritmasi\gucluSayiBulmaAlgoritmasi.csproj", "{47E93B29-AC44-469D-B449-615CF8B29147}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "gucluSayiBulmaAlgoritmasi", "gucluSayiBulmaAlgoritmasi\gucluSayiBulmaAlgoritmasi.csproj", "{47E93B29-AC44-469D-B449-615CF8B29147}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "orjinalSayiBulma", "orjinalSayiBulma\orjinalSayiBulma.csproj", "{16BB46F5-7DF0-4897-B9E7-7BDD45F46B24}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "orjinalSayiBulma", "orjinalSayiBulma\orjinalSayiBulma.csproj", "{16BB46F5-7DF0-4897-B9E7-7BDD45F46B24}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "palindromSorusu", "palindromSorusu\palindromSorusu.csproj", "{12CC7133-23F4-4630-B265-4975A7F18E41}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "palindromSorusu", "palindromSorusu\palindromSorusu.csproj", "{12CC7133-23F4-4630-B265-4975A7F18E41}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IkiTarihArasindakiFark", "IkiTarihArasindakiFark\IkiTarihArasindakiFark.csproj", "{948F24EF-BB88-4B02-9FDE-45C7920811A0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IkiTarihArasindakiFark", "IkiTarihArasindakiFark\IkiTarihArasindakiFark.csproj", "{948F24EF-BB88-4B02-9FDE-45C7920811A0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ePostaKontrolAlgoritmasi", "ePostaKontrolAlgoritmasi\ePostaKontrolAlgoritmasi.csproj", "{4CB7C207-ACB8-44B5-84FF-44A80D8E8DB3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ePostaKontrolAlgoritmasi", "ePostaKontrolAlgoritmasi\ePostaKontrolAlgoritmasi.csproj", "{4CB7C207-ACB8-44B5-84FF-44A80D8E8DB3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sifreKontrolAlgoritmasi", "sifreKontrolAlgoritmasi\sifreKontrolAlgoritmasi.csproj", "{D1DD4355-28A1-43FA-9152-CD445CE51D23}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "sifreKontrolAlgoritmasi", "sifreKontrolAlgoritmasi\sifreKontrolAlgoritmasi.csproj", "{D1DD4355-28A1-43FA-9152-CD445CE51D23}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fonksiyonlar", "fonksiyonlar\fonksiyonlar.csproj", "{A3C33665-8CD8-46A7-A89C-5B19C92675B4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "fonksiyonlar", "fonksiyonlar\fonksiyonlar.csproj", "{A3C33665-8CD8-46A7-A89C-5B19C92675B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KargoUcretiHesaplama", "KargoUcretiHesaplama\KargoUcretiHesaplama.csproj", "{14191F6A-8E85-4FB1-8208-8847827AB613}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "saniyeyiDigitalSaateCevirmeAlgoritmasi", "saniyeyiDigitalSaateCevirmeAlgoritmasi\saniyeyiDigitalSaateCevirmeAlgoritmasi.csproj", "{49E01EAB-A248-4319-98F0-01FAB6B165D1}"
 EndProject
@@ -117,6 +119,10 @@ Global
 		{49E01EAB-A248-4319-98F0-01FAB6B165D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{49E01EAB-A248-4319-98F0-01FAB6B165D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{49E01EAB-A248-4319-98F0-01FAB6B165D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14191F6A-8E85-4FB1-8208-8847827AB613}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14191F6A-8E85-4FB1-8208-8847827AB613}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14191F6A-8E85-4FB1-8208-8847827AB613}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14191F6A-8E85-4FB1-8208-8847827AB613}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
