@@ -4,6 +4,7 @@
     {
         static void Main(string[] args)
         {
+           
 
             Console.Write("Saniye cinsinden bir süre girin: ");
             int toplamSaniye = Convert.ToInt32(Console.ReadLine());
