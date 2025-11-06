@@ -43,6 +43,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SifreOlusturmaAlgoritması"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kullanicidanAlinanİsimSoyismiFormatlama", "kullanicidanAlinanİsimSoyismiFormatlama\kullanicidanAlinanİsimSoyismiFormatlama.csproj", "{5F25979E-9E19-4B9F-B9AD-85B94E93E4D1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CumleDuzenle", "CumleDuzenle\CumleDuzenle.csproj", "{AEC58C78-8382-4585-918F-E2D075ADE99F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +131,10 @@ Global
 		{5F25979E-9E19-4B9F-B9AD-85B94E93E4D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5F25979E-9E19-4B9F-B9AD-85B94E93E4D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5F25979E-9E19-4B9F-B9AD-85B94E93E4D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEC58C78-8382-4585-918F-E2D075ADE99F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEC58C78-8382-4585-918F-E2D075ADE99F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEC58C78-8382-4585-918F-E2D075ADE99F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEC58C78-8382-4585-918F-E2D075ADE99F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
