@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fibonacciAlgroitmasi", "fib
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EbobBulma", "EbobBulma\EbobBulma.csproj", "{E6D25930-D9A4-4660-99BB-F530D279C6B6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "anagramKelimeBulma", "anagramKelimeBulma\anagramKelimeBulma.csproj", "{025D952F-A7AB-4363-B27F-FA81EA953540}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{E6D25930-D9A4-4660-99BB-F530D279C6B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E6D25930-D9A4-4660-99BB-F530D279C6B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E6D25930-D9A4-4660-99BB-F530D279C6B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{025D952F-A7AB-4363-B27F-FA81EA953540}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{025D952F-A7AB-4363-B27F-FA81EA953540}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{025D952F-A7AB-4363-B27F-FA81EA953540}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{025D952F-A7AB-4363-B27F-FA81EA953540}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
