@@ -35,7 +35,9 @@
                     }
                 }
             } 
+            int ekok = (number1 * number2) / ebob;
             Console.WriteLine("Ebob: " + ebob);
+            Console.WriteLine("Ekok: " + ekok);
         }
     }
 }
