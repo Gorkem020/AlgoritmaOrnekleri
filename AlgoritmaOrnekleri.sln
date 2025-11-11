@@ -47,6 +47,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetindekiEnUzunKelime", "Me
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ikizAsalSayiAlgoritmasi", "ikizAsalSayiAlgoritmasi\ikizAsalSayiAlgoritmasi.csproj", "{E6F023A1-0DDD-46AE-87A3-3B16065D752F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fibonacciAlgroitmasi", "fibonacciAlgroitmasi\fibonacciAlgroitmasi.csproj", "{EA3E6BFA-0AE7-4E5A-96C8-F3DFF3004022}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EbobBulma", "EbobBulma\EbobBulma.csproj", "{E6D25930-D9A4-4660-99BB-F530D279C6B6}"
 EndProject
 Global
@@ -143,6 +145,10 @@ Global
 		{E6F023A1-0DDD-46AE-87A3-3B16065D752F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E6F023A1-0DDD-46AE-87A3-3B16065D752F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E6F023A1-0DDD-46AE-87A3-3B16065D752F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA3E6BFA-0AE7-4E5A-96C8-F3DFF3004022}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA3E6BFA-0AE7-4E5A-96C8-F3DFF3004022}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA3E6BFA-0AE7-4E5A-96C8-F3DFF3004022}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA3E6BFA-0AE7-4E5A-96C8-F3DFF3004022}.Release|Any CPU.Build.0 = Release|Any CPU
 		{E6D25930-D9A4-4660-99BB-F530D279C6B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{E6D25930-D9A4-4660-99BB-F530D279C6B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E6D25930-D9A4-4660-99BB-F530D279C6B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
