@@ -55,6 +55,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "anagramKelimeBulma", "anagr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "medyanBulmaAlgoritmasi", "medyanBulmaAlgoritmasi\medyanBulmaAlgoritmasi.csproj", "{6346A3A2-CEA9-428F-BAC4-2C1CD72CEC2E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "enKucukSayininIndisiiBulma", "enKucukSayininIndisiiBulma\enKucukSayininIndisiiBulma.csproj", "{DE825F95-26E7-4616-930A-3F36FBC6E3D9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -165,6 +167,10 @@ Global
 		{6346A3A2-CEA9-428F-BAC4-2C1CD72CEC2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6346A3A2-CEA9-428F-BAC4-2C1CD72CEC2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6346A3A2-CEA9-428F-BAC4-2C1CD72CEC2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE825F95-26E7-4616-930A-3F36FBC6E3D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE825F95-26E7-4616-930A-3F36FBC6E3D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE825F95-26E7-4616-930A-3F36FBC6E3D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE825F95-26E7-4616-930A-3F36FBC6E3D9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
