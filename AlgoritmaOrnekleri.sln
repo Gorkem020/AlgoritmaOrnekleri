@@ -63,6 +63,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "theOldGoldMinerAlgorithm", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxMinYerDegistirme", "MaxMinYerDegistirme\MaxMinYerDegistirme.csproj", "{FEE1F879-1669-4C59-83D7-308C653E2D51}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DinnerTimeAlgorithm", "DinnerTimeAlgorithm\DinnerTimeAlgorithm.csproj", "{F11BD4BD-4082-4CDB-A909-96EC67573F02}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -189,6 +191,10 @@ Global
 		{FEE1F879-1669-4C59-83D7-308C653E2D51}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FEE1F879-1669-4C59-83D7-308C653E2D51}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FEE1F879-1669-4C59-83D7-308C653E2D51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F11BD4BD-4082-4CDB-A909-96EC67573F02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F11BD4BD-4082-4CDB-A909-96EC67573F02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F11BD4BD-4082-4CDB-A909-96EC67573F02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F11BD4BD-4082-4CDB-A909-96EC67573F02}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
