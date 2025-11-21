@@ -39,31 +39,33 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "fonksiyonlar", "fonksiyonla
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KargoUcretiHesaplama", "KargoUcretiHesaplama\KargoUcretiHesaplama.csproj", "{14191F6A-8E85-4FB1-8208-8847827AB613}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SifreOlusturmaAlgoritması", "SifreOlusturmaAlgoritması\SifreOlusturmaAlgoritması.csproj", "{E513FBB0-4067-4177-A317-BDF31F61B557}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SifreOlusturmaAlgoritması", "SifreOlusturmaAlgoritması\SifreOlusturmaAlgoritması.csproj", "{E513FBB0-4067-4177-A317-BDF31F61B557}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kullanicidanAlinanİsimSoyismiFormatlama", "kullanicidanAlinanİsimSoyismiFormatlama\kullanicidanAlinanİsimSoyismiFormatlama.csproj", "{5F25979E-9E19-4B9F-B9AD-85B94E93E4D1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "kullanicidanAlinanİsimSoyismiFormatlama", "kullanicidanAlinanİsimSoyismiFormatlama\kullanicidanAlinanİsimSoyismiFormatlama.csproj", "{5F25979E-9E19-4B9F-B9AD-85B94E93E4D1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetindekiEnUzunKelime", "MetindekiEnUzunKelime\MetindekiEnUzunKelime.csproj", "{290ED223-1252-4EE7-AF57-70EDABBD1BD8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MetindekiEnUzunKelime", "MetindekiEnUzunKelime\MetindekiEnUzunKelime.csproj", "{290ED223-1252-4EE7-AF57-70EDABBD1BD8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ikizAsalSayiAlgoritmasi", "ikizAsalSayiAlgoritmasi\ikizAsalSayiAlgoritmasi.csproj", "{E6F023A1-0DDD-46AE-87A3-3B16065D752F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ikizAsalSayiAlgoritmasi", "ikizAsalSayiAlgoritmasi\ikizAsalSayiAlgoritmasi.csproj", "{E6F023A1-0DDD-46AE-87A3-3B16065D752F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fibonacciAlgroitmasi", "fibonacciAlgroitmasi\fibonacciAlgroitmasi.csproj", "{EA3E6BFA-0AE7-4E5A-96C8-F3DFF3004022}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "fibonacciAlgroitmasi", "fibonacciAlgroitmasi\fibonacciAlgroitmasi.csproj", "{EA3E6BFA-0AE7-4E5A-96C8-F3DFF3004022}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EbobBulma", "EbobBulma\EbobBulma.csproj", "{E6D25930-D9A4-4660-99BB-F530D279C6B6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EbobBulma", "EbobBulma\EbobBulma.csproj", "{E6D25930-D9A4-4660-99BB-F530D279C6B6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "anagramKelimeBulma", "anagramKelimeBulma\anagramKelimeBulma.csproj", "{025D952F-A7AB-4363-B27F-FA81EA953540}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "anagramKelimeBulma", "anagramKelimeBulma\anagramKelimeBulma.csproj", "{025D952F-A7AB-4363-B27F-FA81EA953540}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "medyanBulmaAlgoritmasi", "medyanBulmaAlgoritmasi\medyanBulmaAlgoritmasi.csproj", "{6346A3A2-CEA9-428F-BAC4-2C1CD72CEC2E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "medyanBulmaAlgoritmasi", "medyanBulmaAlgoritmasi\medyanBulmaAlgoritmasi.csproj", "{6346A3A2-CEA9-428F-BAC4-2C1CD72CEC2E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "enKucukSayininIndisiiBulma", "enKucukSayininIndisiiBulma\enKucukSayininIndisiiBulma.csproj", "{DE825F95-26E7-4616-930A-3F36FBC6E3D9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "enKucukSayininIndisiiBulma", "enKucukSayininIndisiiBulma\enKucukSayininIndisiiBulma.csproj", "{DE825F95-26E7-4616-930A-3F36FBC6E3D9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "istenilenHarfiMetindeBulma", "istenilenHarfiMetindeBulma\istenilenHarfiMetindeBulma.csproj", "{8560CA31-79C8-4189-8D42-958799076929}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "istenilenHarfiMetindeBulma", "istenilenHarfiMetindeBulma\istenilenHarfiMetindeBulma.csproj", "{8560CA31-79C8-4189-8D42-958799076929}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "theOldGoldMinerAlgorithm", "theOldGoldMinerAlgorithm\theOldGoldMinerAlgorithm.csproj", "{FD4DD9E5-2C03-4D78-8F26-048B8C4C5069}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "theOldGoldMinerAlgorithm", "theOldGoldMinerAlgorithm\theOldGoldMinerAlgorithm.csproj", "{FD4DD9E5-2C03-4D78-8F26-048B8C4C5069}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxMinYerDegistirme", "MaxMinYerDegistirme\MaxMinYerDegistirme.csproj", "{FEE1F879-1669-4C59-83D7-308C653E2D51}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MaxMinYerDegistirme", "MaxMinYerDegistirme\MaxMinYerDegistirme.csproj", "{FEE1F879-1669-4C59-83D7-308C653E2D51}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DinnerTimeAlgorithm", "DinnerTimeAlgorithm\DinnerTimeAlgorithm.csproj", "{F11BD4BD-4082-4CDB-A909-96EC67573F02}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DinnerTimeAlgorithm", "DinnerTimeAlgorithm\DinnerTimeAlgorithm.csproj", "{F11BD4BD-4082-4CDB-A909-96EC67573F02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mustafaoyun", "mustafaoyun\mustafaoyun.csproj", "{49DC9674-852B-4E41-A399-54A6B19D7011}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -195,6 +197,10 @@ Global
 		{F11BD4BD-4082-4CDB-A909-96EC67573F02}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F11BD4BD-4082-4CDB-A909-96EC67573F02}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F11BD4BD-4082-4CDB-A909-96EC67573F02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49DC9674-852B-4E41-A399-54A6B19D7011}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49DC9674-852B-4E41-A399-54A6B19D7011}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49DC9674-852B-4E41-A399-54A6B19D7011}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49DC9674-852B-4E41-A399-54A6B19D7011}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
